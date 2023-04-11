@@ -3,7 +3,7 @@
 
 
 ==============================
-CollectiveAccess Setup and Use
+Configuración y uso de CollectiveAccess
 ==============================
 
 
